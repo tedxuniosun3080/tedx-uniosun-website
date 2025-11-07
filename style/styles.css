@@ -149,6 +149,9 @@ nav {
 }
 
 @media (max-width: 600px) {
+  nav{
+    margin-top: 80px;
+  }
   .logo {
     width: 150px;
   }
